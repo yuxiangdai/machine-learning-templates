@@ -1,2 +1,3 @@
-# regression-templates
-# machine-learning-templates
+# Machine Learning Templates
+
+Template code for Python machine learning concepts
